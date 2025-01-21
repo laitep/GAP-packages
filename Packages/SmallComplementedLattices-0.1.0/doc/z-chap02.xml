@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small ComplementedLattices</Heading>	
+	AllSmallComplementedLattices is an accessor function for accessing the complete list of
+	non-isomorphic ComplementedLattices of orders 2 to 8.
+	
+    <#Include Label = "AllSmallComplementedLattices">
+    
+    The output complementedlattices are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small ComplementedLattices</Heading>
+    
+	"IsASmallComplementedLattices" is a function for checking a model against the complete list of
+	non-isomorphic ComplementedLattices of orders 2 to 8. It
+	returns true if the model is a Small ComplementedLattices, false otherwise.
+	
+    <#Include Label = "IsASmallComplementedLattices">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
