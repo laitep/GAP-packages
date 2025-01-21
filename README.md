@@ -1,7 +1,7 @@
 # GAP-packages
 
 This respository is a collection of currently 15 GAP packages, 
-each which currently contains a list of low order models for a given class of algebras.
+each of which contains a list of low order models for a given class of algebras.
 
 Each package has a function which lists, for a given (not too large) natural number N 
 a complete and minimal set of representatives of isomorphy classes of the models of order N
