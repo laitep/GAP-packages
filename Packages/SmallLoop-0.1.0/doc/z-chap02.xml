@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small Loop</Heading>	
+	AllSmallLoop is an accessor function for accessing the complete list of
+	non-isomorphic Loop of orders 2 to 7.
+	
+    <#Include Label = "AllSmallLoop">
+    
+    The output loop are represented by its operation table for +, *, ^, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small Loop</Heading>
+    
+	"IsASmallLoop" is a function for checking a model against the complete list of
+	non-isomorphic Loop of orders 2 to 7. It
+	returns true if the model is a Small Loop, false otherwise.
+	
+    <#Include Label = "IsASmallLoop">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
