@@ -1,0 +1,48 @@
+
+Class: Near-Ring                                                 (id: 1024)
+
+Axioms:
+     (x + y) + z = x + (y + z).
+     x + 0 = x.
+     x + - x = 0.
+     (x * y) * z = x * (y * z).
+     (x + y) * z = (x * z) + (y * z).
+
+arXiv refs: []
+
+================================================================================
+2025-01-21 20:23:50.623848
+Starting generating models of type NearRing and order size from 2 to 8
+
+Domain Size 2
+Domain Size 3
+Domain Size 4
+Domain Size 5
+Domain Size 6
+Domain Size 7
+Domain Size 8
+temp
+
+Total number of files: 7 
+
+================================================================================
+2025-01-21 20:24:30.253335
+Removing isomorphic models, and writing non-iso models by model orders
+
+Order: 2
+Number of models: 3
+Order: 3
+Number of models: 5
+Order: 4
+Number of models: 35
+Order: 5
+Number of models: 10
+Order: 6
+Number of models: 99
+Order: 7
+Number of models: 24
+Order: 8
+Number of models: 3856
+================================================================================
+2025-01-21 20:26:06.348509
+
