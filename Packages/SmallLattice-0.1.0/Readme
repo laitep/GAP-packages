@@ -1,0 +1,46 @@
+
+Class: Lattice                                                   (id: 1113)
+
+Axioms:
+     x+y = y+x & x*y=y*x.
+     (x+y)+z = x+(y+z) & (x*y)*z = x*(y*z).
+     x*(x+y)=x & x+(x*y)=x.
+
+arXiv refs: ['1602.00912', 'quant-ph0609192']
+
+================================================================================
+2025-01-21 20:40:48.848151
+Starting generating models of type Lattice and order size from 2 to 8
+
+Domain Size 2
+Domain Size 3
+Domain Size 4
+Domain Size 5
+Domain Size 6
+Domain Size 7
+Domain Size 8
+temp
+
+Total number of files: 7 
+
+================================================================================
+2025-01-21 20:44:56.961630
+Removing isomorphic models, and writing non-iso models by model orders
+
+Order: 2
+Number of models: 1
+Order: 3
+Number of models: 1
+Order: 4
+Number of models: 2
+Order: 5
+Number of models: 5
+Order: 6
+Number of models: 15
+Order: 7
+Number of models: 53
+Order: 8
+Number of models: 222
+================================================================================
+2025-01-21 21:01:19.582086
+

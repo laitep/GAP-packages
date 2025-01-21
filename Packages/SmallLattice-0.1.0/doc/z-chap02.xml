@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small Lattice</Heading>	
+	AllSmallLattice is an accessor function for accessing the complete list of
+	non-isomorphic Lattice of orders 2 to 8.
+	
+    <#Include Label = "AllSmallLattice">
+    
+    The output lattice are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small Lattice</Heading>
+    
+	"IsASmallLattice" is a function for checking a model against the complete list of
+	non-isomorphic Lattice of orders 2 to 8. It
+	returns true if the model is a Small Lattice, false otherwise.
+	
+    <#Include Label = "IsASmallLattice">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
