@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small LieTripleSystem</Heading>	
+	AllSmallLieTripleSystem is an accessor function for accessing the complete list of
+	non-isomorphic LieTripleSystem of orders 2 to 3.
+	
+    <#Include Label = "AllSmallLieTripleSystem">
+    
+    The output lietriplesystem are represented by its operation table for *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small LieTripleSystem</Heading>
+    
+	"IsASmallLieTripleSystem" is a function for checking a model against the complete list of
+	non-isomorphic LieTripleSystem of orders 2 to 3. It
+	returns true if the model is a Small LieTripleSystem, false otherwise.
+	
+    <#Include Label = "IsASmallLieTripleSystem">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

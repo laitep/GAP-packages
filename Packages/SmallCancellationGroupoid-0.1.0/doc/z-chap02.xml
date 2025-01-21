@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small CancellationGroupoid</Heading>	
+	AllSmallCancellationGroupoid is an accessor function for accessing the complete list of
+	non-isomorphic CancellationGroupoid of orders 2 to 5.
+	
+    <#Include Label = "AllSmallCancellationGroupoid">
+    
+    The output cancellationgroupoid are represented by its operation table for *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small CancellationGroupoid</Heading>
+    
+	"IsASmallCancellationGroupoid" is a function for checking a model against the complete list of
+	non-isomorphic CancellationGroupoid of orders 2 to 5. It
+	returns true if the model is a Small CancellationGroupoid, false otherwise.
+	
+    <#Include Label = "IsASmallCancellationGroupoid">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

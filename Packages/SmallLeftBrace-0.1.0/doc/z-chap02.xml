@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small LeftBrace</Heading>	
+	AllSmallLeftBrace is an accessor function for accessing the complete list of
+	non-isomorphic LeftBrace of orders 2 to 3.
+	
+    <#Include Label = "AllSmallLeftBrace">
+    
+    The output leftbrace are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small LeftBrace</Heading>
+    
+	"IsASmallLeftBrace" is a function for checking a model against the complete list of
+	non-isomorphic LeftBrace of orders 2 to 3. It
+	returns true if the model is a Small LeftBrace, false otherwise.
+	
+    <#Include Label = "IsASmallLeftBrace">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

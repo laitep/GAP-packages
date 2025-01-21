@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small Qualgebra</Heading>	
+	AllSmallQualgebra is an accessor function for accessing the complete list of
+	non-isomorphic Qualgebra of orders 2 to 4.
+	
+    <#Include Label = "AllSmallQualgebra">
+    
+    The output qualgebra are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small Qualgebra</Heading>
+    
+	"IsASmallQualgebra" is a function for checking a model against the complete list of
+	non-isomorphic Qualgebra of orders 2 to 4. It
+	returns true if the model is a Small Qualgebra, false otherwise.
+	
+    <#Include Label = "IsASmallQualgebra">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

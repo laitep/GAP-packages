@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small MoufangLoop</Heading>	
+	AllSmallMoufangLoop is an accessor function for accessing the complete list of
+	non-isomorphic MoufangLoop of orders 2 to 6.
+	
+    <#Include Label = "AllSmallMoufangLoop">
+    
+    The output moufangloop are represented by its operation table for *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small MoufangLoop</Heading>
+    
+	"IsASmallMoufangLoop" is a function for checking a model against the complete list of
+	non-isomorphic MoufangLoop of orders 2 to 6. It
+	returns true if the model is a Small MoufangLoop, false otherwise.
+	
+    <#Include Label = "IsASmallMoufangLoop">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

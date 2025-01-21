@@ -1,0 +1,19 @@
+<!DOCTYPE Book SYSTEM "gapdoc.dtd"
+   [ <!ENTITY SmallQualgebra "<Package>SmallQualgebra</Package>">
+   	 <#Include Label="PKGVERSIONDATA">
+   ]>
+
+<Book Name="SmallQualgebra">
+<#Include SYSTEM "title.xml">
+
+<TableOfContents/>
+
+<Body>
+  <#Include SYSTEM "z-chap01.xml">  <!-- Introduction -->
+  <#Include SYSTEM "z-chap02.xml">  <!-- Non-isomorphoric Algebras -->
+</Body>
+
+<Bibliography Databases="bibliography.xml" />
+<TheIndex/>
+<!-- visualising -->
+</Book>

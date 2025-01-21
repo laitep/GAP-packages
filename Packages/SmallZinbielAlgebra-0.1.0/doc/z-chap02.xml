@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small ZinbielAlgebra</Heading>	
+	AllSmallZinbielAlgebra is an accessor function for accessing the complete list of
+	non-isomorphic ZinbielAlgebra of orders 2 to 3.
+	
+    <#Include Label = "AllSmallZinbielAlgebra">
+    
+    The output zinbielalgebra are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small ZinbielAlgebra</Heading>
+    
+	"IsASmallZinbielAlgebra" is a function for checking a model against the complete list of
+	non-isomorphic ZinbielAlgebra of orders 2 to 3. It
+	returns true if the model is a Small ZinbielAlgebra, false otherwise.
+	
+    <#Include Label = "IsASmallZinbielAlgebra">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

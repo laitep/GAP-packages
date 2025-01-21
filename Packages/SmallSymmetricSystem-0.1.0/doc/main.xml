@@ -1,0 +1,19 @@
+<!DOCTYPE Book SYSTEM "gapdoc.dtd"
+   [ <!ENTITY SmallSymmetricSystem "<Package>SmallSymmetricSystem</Package>">
+   	 <#Include Label="PKGVERSIONDATA">
+   ]>
+
+<Book Name="SmallSymmetricSystem">
+<#Include SYSTEM "title.xml">
+
+<TableOfContents/>
+
+<Body>
+  <#Include SYSTEM "z-chap01.xml">  <!-- Introduction -->
+  <#Include SYSTEM "z-chap02.xml">  <!-- Non-isomorphoric Algebras -->
+</Body>
+
+<Bibliography Databases="bibliography.xml" />
+<TheIndex/>
+<!-- visualising -->
+</Book>
