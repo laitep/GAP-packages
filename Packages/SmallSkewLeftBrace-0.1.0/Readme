@@ -1,0 +1,29 @@
+
+
+
+Class: Skew Left Brace                                           (id: 1132)
+
+Axioms:
+     x+(y*z) = ((x+y)*a(x))*(x+z).
+
+================================================================================
+2025-01-20 12:33:12.111104
+Starting generating models of type SkewLeftBrace and order size from 2 to 3
+
+Domain Size 2
+Domain Size 3
+temp
+
+Total number of files: 2 
+
+================================================================================
+2025-01-20 12:34:00.987369
+Removing isomorphic models, and writing non-iso models by model orders
+
+Order: 2
+Number of models: 166
+--------------------
+Order: 3
+Number of models: 174566
+================================================================================
+2025-01-20 13:10:56.072090
