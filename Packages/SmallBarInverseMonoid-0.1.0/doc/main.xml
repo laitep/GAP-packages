@@ -1,0 +1,19 @@
+<!DOCTYPE Book SYSTEM "gapdoc.dtd"
+   [ <!ENTITY SmallBarInverseMonoid "<Package>SmallBarInverseMonoid</Package>">
+   	 <#Include Label="PKGVERSIONDATA">
+   ]>
+
+<Book Name="SmallBarInverseMonoid">
+<#Include SYSTEM "title.xml">
+
+<TableOfContents/>
+
+<Body>
+  <#Include SYSTEM "z-chap01.xml">  <!-- Introduction -->
+  <#Include SYSTEM "z-chap02.xml">  <!-- Non-isomorphoric Algebras -->
+</Body>
+
+<Bibliography Databases="bibliography.xml" />
+<TheIndex/>
+<!-- visualising -->
+</Book>
