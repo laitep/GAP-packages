@@ -4,7 +4,7 @@
   <Section Label = "Algebra Functions">
     <Heading>Accessing Small Hoop</Heading>	
 	AllSmallHoop is an accessor function for accessing the complete list of
-	non-isomorphic Hoop of orders 2 to 8.
+	non-isomorphic Hoop of orders 2 to 9.
 	
     <#Include Label = "AllSmallHoop">
     
@@ -16,7 +16,7 @@
     <Heading>Checking Models of Small Hoop</Heading>
     
 	"IsASmallHoop" is a function for checking a model against the complete list of
-	non-isomorphic Hoop of orders 2 to 8. It
+	non-isomorphic Hoop of orders 2 to 9. It
 	returns true if the model is a Small Hoop, false otherwise.
 	
     <#Include Label = "IsASmallHoop">

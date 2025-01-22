@@ -9,9 +9,11 @@ Axioms:
      x + x = 1.
      (x + y) * x = (y + x) * y.
 
+arXiv refs: []
+
 ================================================================================
-2025-01-21 10:08:10.402029
-Starting generating models of type Hoop and order size from 2 to 8
+2025-01-22 10:29:58.955440
+Starting generating models of type Hoop and order size from 2 to 9
 
 Domain Size 2
 Domain Size 3
@@ -20,11 +22,13 @@ Domain Size 5
 Domain Size 6
 Domain Size 7
 Domain Size 8
+Domain Size 9
+temp
 
-Total number of files: 7 
+Total number of files: 8 
 
 ================================================================================
-2025-01-21 10:08:40.823976
+2025-01-22 10:41:40.958016
 Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
@@ -41,10 +45,8 @@ Order: 7
 Number of models: 49
 Order: 8
 Number of models: 111
+Order: 9
+Number of models: 244
 ================================================================================
-2025-01-21 10:09:01.621855
-
-
-
-
+2025-01-22 10:51:48.382100
 
