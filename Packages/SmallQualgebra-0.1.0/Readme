@@ -1,5 +1,3 @@
-
-
 Class: Qualgebra                                                 (id: 370)
 
 Axioms:
@@ -13,7 +11,6 @@ Starting generating models of type Qualgebra and order size from 2 to 4
 Domain Size 2
 Domain Size 3
 Domain Size 4
-temp
 
 Total number of files: 3 
 
@@ -23,13 +20,14 @@ Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 11
---------------------
 Order: 3
 Number of models: 675
---------------------
 Order: 4
 Number of models: 174502
---------------------
 ================================================================================
 2025-01-20 20:04:17.512191
-Compressing all models found
+
+
+
+
+

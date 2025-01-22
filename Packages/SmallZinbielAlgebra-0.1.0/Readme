@@ -1,7 +1,3 @@
-
-Log file 
-
-
 Class: Zinbiel Algebra                                           (id: 1103)
 
 Axioms:
@@ -13,7 +9,6 @@ Starting generating models of type ZinbielAlgebra and order size from 2 to 3
 
 Domain Size 2
 Domain Size 3
-temp
 
 Total number of files: 2 
 
@@ -23,9 +18,13 @@ Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 24
---------------------
 Order: 3
 Number of models: 36592
---------------------
 ================================================================================
 2025-01-20 11:46:36.775620
+
+
+
+
+
+
