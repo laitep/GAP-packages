@@ -1,0 +1,62 @@
+
+Class: Moufang Loop                                              (id: 1122)
+
+Axioms:
+     x*(x+y)=y.
+     (y^x)*x=y.
+     x+(x*y)=y.
+     (y*x)^x=y.
+     x*(y*(x*z))=((x*y)*x)*z.
+     z*(x*(y*x))=((z*x)*y)*x.
+     (x*y)*(z*x)=(x*(y*z))*x.
+
+arXiv refs: ['0907.1548', '1209.6518']
+
+================================================================================
+2025-01-22 08:47:18.828857
+Starting generating models of type MoufangLoop and order size from 2 to 11
+
+Domain Size 2
+Domain Size 3
+Domain Size 4
+Domain Size 5
+Domain Size 6
+Domain Size 7
+Domain Size 8
+Domain Size 9
+Domain Size 10
+Domain Size 11
+
+Total number of files: 10 
+
+================================================================================
+2025-01-22 08:47:19.563762
+Removing isomorphic models, and writing non-iso models by model orders
+
+Order: 2
+Number of models: 1
+Order: 3
+Number of models: 1
+Order: 4
+Number of models: 2
+Order: 5
+Number of models: 1
+Order: 6
+Number of models: 2
+Order: 7
+Number of models: 1
+Order: 8
+Number of models: 5
+Order: 9
+Number of models: 2
+Order: 10
+Number of models: 2
+Order: 11
+Number of models: 1
+================================================================================
+2025-01-22 08:47:23.246252
+
+
+
+
+
