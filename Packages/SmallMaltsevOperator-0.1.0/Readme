@@ -1,0 +1,30 @@
+
+Class: Maltsev Operator                                          (id: 1154)
+
+Axioms:
+     a(x,x,y) = y & y = a(y,x,x).
+
+================================================================================
+2025-01-20 12:34:04.141841
+Starting generating models of type MaltsevOperator and order size from 2 to 3
+
+Domain Size 2
+Domain Size 3
+
+Total number of files: 2 
+
+================================================================================
+2025-01-20 12:34:10.142581
+Removing isomorphic models, and writing non-iso models by model orders
+
+Order: 2
+Number of models: 3
+Order: 3
+Number of models: 88965
+================================================================================
+2025-01-20 13:53:26.110038
+
+
+
+
+
