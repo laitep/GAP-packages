@@ -1,6 +1,6 @@
 ## GAP-packages
 
-This respository is a collection of currently 22 GAP packages, 
+This respository is a collection of currently 24 GAP packages, 
 each of which contains a list of low order models for a given class of algebras.
 
 Each package has a function which lists, for each sufficiently small natural number N, 
