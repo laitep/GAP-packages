@@ -1,3 +1,5 @@
+Using the most recent version.
+--------------------------------------------------------------------------------
 Class: Complemented Lattices                                     (id: 1051)
 
 Axioms:
@@ -11,11 +13,15 @@ Axioms:
      1 + x = 1.
      all x exists y (x + y = 1 & x * y = 0).
 
-arXiv refs: []
+Contained in:
+[1020, 1021, 1031, 1050, 1051, 1102, 1103, 1107, 1113, 1114, 1119, 1122, 1123, 1124, 1126, 1129, 1148, 1188, 1189, 1207, 138, 155, 160, 162, 171, 186, 188, 193, 198, 236, 269, 283, 321, 356, 411, 420, 431, 469, 515, 518, 519, 552, 604, 609, 64, 65, 650, 667, 67, 68, 681, 721, 723, 724, 725, 726, 759, 798, 809, 813, 820, 834]
+
+Contains:
+[1028, 1029, 1051, 1052, 23, 870]
 
 ================================================================================
-2025-01-21 20:31:54.897728
-Starting generating models of type ComplementedLattices and order size from 2 to 8
+2025-01-22 17:30:40.794037
+Starting generating models of type ComplementedLattices and order size from 2 to 9
 
 Domain Size 2
 Domain Size 3
@@ -24,31 +30,40 @@ Domain Size 5
 Domain Size 6
 Domain Size 7
 Domain Size 8
+Domain Size 9
+temp
 
-Total number of files: 7 
+Total number of files: 8 
 
 ================================================================================
-2025-01-21 20:32:30.424848
+2025-01-22 18:09:09.405027
 Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 1
+--------------------
 Order: 3
 Number of models: 0
+--------------------
 Order: 4
 Number of models: 1
+--------------------
 Order: 5
 Number of models: 4
+--------------------
 Order: 6
 Number of models: 41
+--------------------
 Order: 7
 Number of models: 600
+--------------------
 Order: 8
 Number of models: 13941
+--------------------
+Order: 9
+Number of models: 174502
+--------------------
 ================================================================================
-2025-01-21 20:35:23.057877
-
-
-
-
+2025-01-23 02:54:26.260601
+Compressing all models found
 
