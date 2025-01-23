@@ -4,7 +4,7 @@
   <Section Label = "Algebra Functions">
     <Heading>Accessing Small MoufangLoop</Heading>	
 	AllSmallMoufangLoop is an accessor function for accessing the complete list of
-	non-isomorphic MoufangLoop of orders 2 to 11.
+	non-isomorphic MoufangLoop of orders 2 to 15.
 	
     <#Include Label = "AllSmallMoufangLoop">
     
@@ -16,7 +16,7 @@
     <Heading>Checking Models of Small MoufangLoop</Heading>
     
 	"IsASmallMoufangLoop" is a function for checking a model against the complete list of
-	non-isomorphic MoufangLoop of orders 2 to 11. It
+	non-isomorphic MoufangLoop of orders 2 to 15. It
 	returns true if the model is a Small MoufangLoop, false otherwise.
 	
     <#Include Label = "IsASmallMoufangLoop">
