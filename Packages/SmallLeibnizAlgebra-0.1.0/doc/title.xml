@@ -1,0 +1,25 @@
+<TitlePage>
+  <Title>&SmallLeibnizAlgebra;</Title>
+  <Version>Version &VERSION;</Version>
+
+  <Author>Joao Araújo
+    <Email>jjrsga@gmail.com</Email>
+    <Homepage>https://novamath.fct.unl.pt/research-groups/algebra-and-logic/</Homepage>
+  </Author>
+  
+  []
+
+  <Copyright>&copyright; &COPYRIGHTYEARS; by Joao Araújo, Mikoláš Janota, Gonçalo Araújo, Choiwah Chow, Atle Hahn.<P/>
+    The &SmallLeibnizAlgebra; is free software; you can redistribute it and/or modify it
+    under the terms of the <URL Text = "GNU General Public License">
+    http://www.fsf.org/licenses/gpl.html</URL> as published by the Free Software
+    Foundation; either version 3 of the License, or (at your option) any later
+    version.
+  </Copyright>
+
+  <Abstract>
+    The &SmallLeibnizAlgebra; package is a &GAP; package containing methods and data
+    to provide the complete list of non-isomorphic models for:<P/>
+    LeibnizAlgebra of orders 2 to 4.<P/>
+  </Abstract>
+</TitlePage>

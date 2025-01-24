@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small LeibnizAlgebra</Heading>	
+	AllSmallLeibnizAlgebra is an accessor function for accessing the complete list of
+	non-isomorphic LeibnizAlgebra of orders 2 to 4.
+	
+    <#Include Label = "AllSmallLeibnizAlgebra">
+    
+    The output leibnizalgebra are represented by its operation table for +, f, a, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small LeibnizAlgebra</Heading>
+    
+	"IsASmallLeibnizAlgebra" is a function for checking a model against the complete list of
+	non-isomorphic LeibnizAlgebra of orders 2 to 4. It
+	returns true if the model is a Small LeibnizAlgebra, false otherwise.
+	
+    <#Include Label = "IsASmallLeibnizAlgebra">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>

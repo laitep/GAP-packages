@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small Semiring</Heading>	
+	AllSmallSemiring is an accessor function for accessing the complete list of
+	non-isomorphic Semiring of orders 2 to 6.
+	
+    <#Include Label = "AllSmallSemiring">
+    
+    The output semiring are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small Semiring</Heading>
+    
+	"IsASmallSemiring" is a function for checking a model against the complete list of
+	non-isomorphic Semiring of orders 2 to 6. It
+	returns true if the model is a Small Semiring, false otherwise.
+	
+    <#Include Label = "IsASmallSemiring">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
