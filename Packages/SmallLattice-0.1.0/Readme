@@ -1,4 +1,5 @@
-
+Using the most recent version.
+--------------------------------------------------------------------------------
 Class: Lattice                                                   (id: 1113)
 
 Axioms:
@@ -6,11 +7,15 @@ Axioms:
      (x+y)+z = x+(y+z) & (x*y)*z = x*(y*z).
      x*(x+y)=x & x+(x*y)=x.
 
-arXiv refs: ['1602.00912', 'quant-ph0609192']
+Contained in:
+[1020, 1031, 1102, 1103, 1107, 1113, 1114, 1119, 1122, 1123, 1124, 1126, 1129, 1189, 1207, 138, 155, 160, 162, 193, 198, 236, 269, 283, 321, 356, 420, 469, 515, 518, 552, 604, 609, 650, 667, 67, 68, 721, 723, 724, 725, 759, 798, 813, 820, 834]
+
+Contains:
+[1021, 1022, 1026, 1027, 1028, 1029, 1051, 1052, 1104, 1113, 1136, 1205, 173, 23, 39, 466, 828, 870]
 
 ================================================================================
-2025-01-21 20:40:48.848151
-Starting generating models of type Lattice and order size from 2 to 8
+2025-01-23 19:12:52.804499
+Starting generating models of type Lattice and order size from 2 to 9
 
 Domain Size 2
 Domain Size 3
@@ -19,30 +24,40 @@ Domain Size 5
 Domain Size 6
 Domain Size 7
 Domain Size 8
+Domain Size 9
+temp
 
-Total number of files: 7 
+Total number of files: 8 
 
 ================================================================================
-2025-01-21 20:44:56.961630
+2025-01-23 21:29:39.174151
 Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 1
+--------------------
 Order: 3
 Number of models: 1
+--------------------
 Order: 4
 Number of models: 2
+--------------------
 Order: 5
 Number of models: 5
+--------------------
 Order: 6
 Number of models: 15
+--------------------
 Order: 7
 Number of models: 53
+--------------------
 Order: 8
 Number of models: 222
+--------------------
+Order: 9
+Number of models: 1078
+--------------------
 ================================================================================
-2025-01-21 21:01:19.582086
-
-
-
+2025-01-24 17:54:10.282987
+Compressing all models found
 
