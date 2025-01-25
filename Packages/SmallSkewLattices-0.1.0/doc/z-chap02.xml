@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small SkewLattices</Heading>	
+	AllSmallSkewLattices is an accessor function for accessing the complete list of
+	non-isomorphic SkewLattices of orders 2 to 7.
+	
+    <#Include Label = "AllSmallSkewLattices">
+    
+    The output skewlattices are represented by its operation table for +, *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small SkewLattices</Heading>
+    
+	"IsASmallSkewLattices" is a function for checking a model against the complete list of
+	non-isomorphic SkewLattices of orders 2 to 7. It
+	returns true if the model is a Small SkewLattices, false otherwise.
+	
+    <#Include Label = "IsASmallSkewLattices">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
