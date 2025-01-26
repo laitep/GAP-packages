@@ -1,0 +1,29 @@
+<Chapter Label = "Non-isomorphoric Algebras">
+  <Heading>Small Algebras</Heading>
+	
+  <Section Label = "Algebra Functions">
+    <Heading>Accessing Small MvAlgebra</Heading>	
+	AllSmallMvAlgebra is an accessor function for accessing the complete list of
+	non-isomorphic MvAlgebra of orders 2 to 16.
+	
+    <#Include Label = "AllSmallMvAlgebra">
+    
+    The output mvalgebra are represented by its operation table for *, as given in Section <Ref Sect="AlgebraDefinition"/>.  
+     
+  </Section> 
+      
+  <Section Label = "Algebra Checking Functions">
+    <Heading>Checking Models of Small MvAlgebra</Heading>
+    
+	"IsASmallMvAlgebra" is a function for checking a model against the complete list of
+	non-isomorphic MvAlgebra of orders 2 to 16. It
+	returns true if the model is a Small MvAlgebra, false otherwise.
+	
+    <#Include Label = "IsASmallMvAlgebra">
+    
+  </Section>
+
+  <!--**********************************************************************-->
+  <!--**********************************************************************-->
+
+</Chapter>
