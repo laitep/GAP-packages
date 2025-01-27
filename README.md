@@ -11,6 +11,11 @@ To install the package move the package you are interested in into the subfolder
          
        pkg
 
+Then run 
+
+        ./configure
+        make  
+
 of your GAP home folder.
 
 In order to load a package, e.g. the package "SmallShelf-0.1.0, start GAP and then type
