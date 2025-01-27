@@ -21,3 +21,7 @@ Number of models: 102268
 
 Computation-Start: 2025-01-21 10:14:29.714950
 Computation-End:   2025-01-22 14:21:31.846091
+
+Note: The function 'IsASmallCommutativeDimonoid', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

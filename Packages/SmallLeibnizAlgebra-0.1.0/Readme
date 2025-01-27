@@ -19,3 +19,7 @@ Number of models: 60717
 
 Computation-Start: 2025-01-23 19:23:45.111204
 Computation-End:   2025-01-23 19:28:08.026681
+
+Note: The function 'IsASmallLeibnizAlgebra', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

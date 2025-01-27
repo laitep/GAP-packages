@@ -31,3 +31,7 @@ Number of models: 174502
 
 Computation-Start: 2025-01-22 18:09:09.405027
 Computation-End:   2025-01-23 02:54:26.260601
+
+Note: The function 'IsASmallComplementedLattices', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

@@ -25,3 +25,7 @@ Number of models: 531
 
 Computation-Start: 2025-01-25 09:17:21.643913
 Computation-End:   2025-01-25 12:25:53.519443
+
+Note: The function 'IsASmallSkewLattices', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

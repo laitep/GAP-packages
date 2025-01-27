@@ -44,3 +44,7 @@ Number of models: 1
 
 Computation-Start: 2025-01-22 15:52:43.864922
 Computation-End:   2025-01-23 09:19:26.539604
+
+Note: The function 'IsASmallMoufangLoop', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

@@ -25,3 +25,7 @@ Number of models: 1078
 
 Computation-Start: 2025-01-23 21:29:39.174151
 Computation-End:   2025-01-24 17:54:10.282987
+
+Note: The function 'IsASmallLattice', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

@@ -44,3 +44,7 @@ Number of models: 5
 
 Computation-Start: 2025-01-25 17:17:41.241427
 Computation-End:   2025-01-25 17:17:41.975808
+
+Note: The function 'IsASmallMvAlgebra', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

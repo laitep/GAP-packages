@@ -25,3 +25,7 @@ Number of models: 23746
 
 Computation-Start: 2025-01-21 20:12:58.955002
 Computation-End:   2025-01-21 20:20:29.614836
+
+Note: The function 'IsASmallLoop', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

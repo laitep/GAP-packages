@@ -26,3 +26,7 @@ Number of models: 39694
 
 Computation-Start: 2025-01-23 19:21:03.315902
 Computation-End:   2025-01-23 19:27:18.308277
+
+Note: The function 'IsASmallSemiring', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

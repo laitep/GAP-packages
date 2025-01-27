@@ -28,3 +28,7 @@ Number of models: 71416
 
 Computation-Start: 2025-01-21 10:15:06.021597
 Computation-End:   2025-01-21 15:41:24.193432
+
+Note: The function 'IsASmallBarInverseMonoid', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

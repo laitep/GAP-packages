@@ -18,3 +18,7 @@ Number of models: 68177
 
 Computation-Start: 2025-01-21 10:08:50.028918
 Computation-End:   2025-01-21 13:00:19.640626
+
+Note: The function 'IsASmallDoppelsemigroup', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

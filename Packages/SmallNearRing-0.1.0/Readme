@@ -26,3 +26,7 @@ Number of models: 3856
 
 Computation-Start: 2025-01-21 20:24:30.253335
 Computation-End:   2025-01-21 20:26:06.348509
+
+Note: The function 'IsASmallNearRing', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

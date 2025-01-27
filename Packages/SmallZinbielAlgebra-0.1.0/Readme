@@ -10,3 +10,7 @@ Number of models: 36592
 
 Computation-Start: 2025-01-20 11:45:11.150215
 Computation-End:   2025-01-20 11:46:36.775620
+
+Note: The function 'IsASmallZinbielAlgebra', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

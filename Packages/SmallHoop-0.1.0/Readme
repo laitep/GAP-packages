@@ -30,3 +30,7 @@ Number of models: 244
 
 Computation-Start: 2025-01-22 10:41:40.958016
 Computation-End:   2025-01-22 10:51:48.382100
+
+Note: The function 'IsASmallHoop', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

@@ -13,3 +13,7 @@ Number of models: 174502
 
 Computation-Start: 2025-01-20 19:05:16.659912
 Computation-End:   2025-01-20 20:04:17.512191
+
+Note: The function 'IsASmallQualgebra', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.

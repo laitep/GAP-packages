@@ -24,3 +24,7 @@ Number of models: 9170
 
 Computation-Start: 2025-01-21 10:12:45.713079
 Computation-End:   2025-01-21 10:36:44.270452
+
+Note: The function 'IsASmallBckAlgebra', mentioned in the documentation, is not yet implemented.
+
+      Its implentation is scheduled for the next version of this repository.
