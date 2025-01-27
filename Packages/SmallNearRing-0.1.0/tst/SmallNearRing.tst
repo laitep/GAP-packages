@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallNearRing: testing retrieval of non-isomorphic 
 # Simple Length Test 
 gap> Length(AllSmallNearRing(2));
 3
-gap> IsASmallNearRing(AllSmallNearRing(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

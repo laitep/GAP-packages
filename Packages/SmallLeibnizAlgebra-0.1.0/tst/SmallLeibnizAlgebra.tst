@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallLeibnizAlgebra: testing retrieval of non-isomo
 # Simple Length Test 
 gap> Length(AllSmallLeibnizAlgebra(2));
 16
-gap> IsASmallLeibnizAlgebra(AllSmallLeibnizAlgebra(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

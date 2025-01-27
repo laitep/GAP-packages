@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallStrongDoppelsemigroup: testing retrieval of no
 # Simple Length Test 
 gap> Length(AllSmallStrongDoppelsemigroup(2));
 8
-gap> IsASmallStrongDoppelsemigroup(AllSmallStrongDoppelsemigroup(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

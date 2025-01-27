@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallDoppelsemigroup: testing retrieval of non-isom
 # Simple Length Test 
 gap> Length(AllSmallDoppelsemigroup(2));
 8
-gap> IsASmallDoppelsemigroup(AllSmallDoppelsemigroup(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

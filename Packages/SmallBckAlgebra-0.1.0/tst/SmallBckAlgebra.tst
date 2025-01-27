@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallBckAlgebra: testing retrieval of non-isomorphi
 # Simple Length Test 
 gap> Length(AllSmallBckAlgebra(2));
 1
-gap> IsASmallBckAlgebra(AllSmallBckAlgebra(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

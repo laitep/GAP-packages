@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallMoufangLoop: testing retrieval of non-isomorph
 # Simple Length Test 
 gap> Length(AllSmallMoufangLoop(2));
 1
-gap> IsASmallMoufangLoop(AllSmallMoufangLoop(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

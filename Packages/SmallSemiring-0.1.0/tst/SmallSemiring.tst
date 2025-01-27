@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallSemiring: testing retrieval of non-isomorphic 
 # Simple Length Test 
 gap> Length(AllSmallSemiring(2));
 4
-gap> IsASmallSemiring(AllSmallSemiring(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

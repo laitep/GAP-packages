@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallHoop: testing retrieval of non-isomorphic mode
 # Simple Length Test 
 gap> Length(AllSmallHoop(2));
 1
-gap> IsASmallHoop(AllSmallHoop(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

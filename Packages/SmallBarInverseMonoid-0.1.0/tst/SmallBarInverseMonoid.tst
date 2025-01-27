@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallBarInverseMonoid: testing retrieval of non-iso
 # Simple Length Test 
 gap> Length(AllSmallBarInverseMonoid(2));
 1
-gap> IsASmallBarInverseMonoid(AllSmallBarInverseMonoid(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

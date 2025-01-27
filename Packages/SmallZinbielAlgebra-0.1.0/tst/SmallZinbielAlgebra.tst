@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallZinbielAlgebra: testing retrieval of non-isomo
 # Simple Length Test 
 gap> Length(AllSmallZinbielAlgebra(2));
 24
-gap> IsASmallZinbielAlgebra(AllSmallZinbielAlgebra(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

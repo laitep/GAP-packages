@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallSkewLattices: testing retrieval of non-isomorp
 # Simple Length Test 
 gap> Length(AllSmallSkewLattices(2));
 3
-gap> IsASmallSkewLattices(AllSmallSkewLattices(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

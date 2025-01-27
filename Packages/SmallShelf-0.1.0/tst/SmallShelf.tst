@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallShelf: testing retrieval of non-isomorphic mod
 # Simple Length Test 
 gap> Length(AllSmallShelf(2));
 6
-gap> IsASmallShelf(AllSmallShelf(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

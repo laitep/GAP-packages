@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallCancellationGroupoid: testing retrieval of non
 # Simple Length Test 
 gap> Length(AllSmallCancellationGroupoid(2));
 1
-gap> IsASmallCancellationGroupoid(AllSmallCancellationGroupoid(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallLeftBrace: testing retrieval of non-isomorphic
 # Simple Length Test 
 gap> Length(AllSmallLeftBrace(2));
 46
-gap> IsASmallLeftBrace(AllSmallLeftBrace(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

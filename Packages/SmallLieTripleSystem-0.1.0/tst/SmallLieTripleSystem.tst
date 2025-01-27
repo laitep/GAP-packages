@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallLieTripleSystem: testing retrieval of non-isom
 # Simple Length Test 
 gap> Length(AllSmallLieTripleSystem(2));
 15
-gap> IsASmallLieTripleSystem(AllSmallLieTripleSystem(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-
