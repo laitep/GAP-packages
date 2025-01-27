@@ -1,5 +1,4 @@
-Using the most recent version.
---------------------------------------------------------------------------------
+
 Class: Skew Lattices                                             (id: 1031)
 
 Axioms:
@@ -10,11 +9,6 @@ Axioms:
      x * (x + y) = x & x = x + (x * y).
      (x + y) * y = y & y = (x * y) + y.
 
-Contained in:
-[1020, 1031, 1119, 1122, 1189, 138, 198, 269, 515, 604, 609, 68]
-
-Contains:
-[1021, 1022, 1026, 1027, 1028, 1029, 1031, 1051, 1052, 1104, 1113, 1136, 1205, 173, 23, 39, 466, 828, 870]
 
 ================================================================================
 2025-01-25 09:16:33.384974
@@ -26,7 +20,6 @@ Domain Size 4
 Domain Size 5
 Domain Size 6
 Domain Size 7
-temp
 
 Total number of files: 6 
 
@@ -36,23 +29,16 @@ Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 3
---------------------
 Order: 3
 Number of models: 7
---------------------
 Order: 4
 Number of models: 21
---------------------
 Order: 5
 Number of models: 53
---------------------
 Order: 6
 Number of models: 173
---------------------
 Order: 7
 Number of models: 531
---------------------
 ================================================================================
 2025-01-25 12:25:53.519443
-Compressing all models found
 

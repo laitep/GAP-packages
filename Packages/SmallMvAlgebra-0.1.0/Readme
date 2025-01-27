@@ -1,5 +1,4 @@
-Using the most recent version.
---------------------------------------------------------------------------------
+
 Class: Mv-Algebra                                                (id: 1185)
 
 Axioms:
@@ -11,104 +10,6 @@ Axioms:
      a(0) = 1.
      u * a(u) = 1.
      a(a(u) * v) * v = a(u * a(v)) * u.
-
-Contained in:
-[1020, 1050, 1119, 1122, 1129, 1135, 1159, 1185, 1188, 1189, 14, 162, 171, 193, 198, 236, 269, 283, 321, 336, 411, 431, 515, 518, 519, 604, 609, 623, 681, 721, 725, 726, 809]
-
-Contains:
-[1185, 23]
-
-================================================================================
-2025-01-25 17:14:52.863657
-Starting generating models of type MvAlgebra and order size from 2 to 15
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-Domain Size 8
-Domain Size 9
-Domain Size 10
-Domain Size 11
-Domain Size 12
-Domain Size 13
-Domain Size 14
-Domain Size 15
-temp
-
-Total number of files: 14 
-
-================================================================================
-2025-01-25 17:15:22.041147
-Removing isomorphic models, and writing non-iso models by model orders
-
-Order: 2
-Number of models: 1
---------------------
-Order: 3
-Number of models: 1
---------------------
-Order: 4
-Number of models: 2
---------------------
-Order: 5
-Number of models: 1
---------------------
-Order: 6
-Number of models: 2
---------------------
-Order: 7
-Number of models: 1
---------------------
-Order: 8
-Number of models: 3
---------------------
-Order: 9
-Number of models: 2
---------------------
-Order: 10
-Number of models: 2
---------------------
-Order: 11
-Number of models: 1
---------------------
-Order: 12
-Number of models: 4
---------------------
-Order: 13
-Number of models: 1
---------------------
-Order: 14
-Number of models: 2
---------------------
-Order: 15
-Number of models: 2
---------------------
-================================================================================
-2025-01-25 17:15:22.522230
-Compressing all models found
-
-Using the most recent version.
---------------------------------------------------------------------------------
-Class: Mv-Algebra                                                (id: 1185)
-
-Axioms:
-     (u*v) * w = u * (v * w).
-     u * 0 = u.
-     u * v = v * u.
-     u * 1 = 1.
-     a(a(u)) = u.
-     a(0) = 1.
-     u * a(u) = 1.
-     a(a(u) * v) * v = a(u * a(v)) * u.
-
-Contained in:
-[1020, 1050, 1119, 1122, 1129, 1135, 1159, 1185, 1188, 1189, 14, 162, 171, 193, 198, 236, 269, 283, 321, 336, 411, 431, 515, 518, 519, 604, 609, 623, 681, 721, 725, 726, 809]
-
-Contains:
-[1185, 23]
 
 ================================================================================
 2025-01-25 17:16:25.090329
@@ -129,7 +30,6 @@ Domain Size 13
 Domain Size 14
 Domain Size 15
 Domain Size 16
-temp
 
 Total number of files: 15 
 
@@ -139,50 +39,34 @@ Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 1
---------------------
 Order: 3
 Number of models: 1
---------------------
 Order: 4
 Number of models: 2
---------------------
 Order: 5
 Number of models: 1
---------------------
 Order: 6
 Number of models: 2
---------------------
 Order: 7
 Number of models: 1
---------------------
 Order: 8
 Number of models: 3
---------------------
 Order: 9
 Number of models: 2
---------------------
 Order: 10
 Number of models: 2
---------------------
 Order: 11
 Number of models: 1
---------------------
 Order: 12
 Number of models: 4
---------------------
 Order: 13
 Number of models: 1
---------------------
 Order: 14
 Number of models: 2
---------------------
 Order: 15
 Number of models: 2
---------------------
 Order: 16
 Number of models: 5
---------------------
 ================================================================================
 2025-01-25 17:17:41.975808
-Compressing all models found
 

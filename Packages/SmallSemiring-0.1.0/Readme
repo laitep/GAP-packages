@@ -1,5 +1,4 @@
-Using the most recent version.
---------------------------------------------------------------------------------
+
 Class: Semiring (Weak)                                           (id: 337)
 
 Axioms:
@@ -14,12 +13,6 @@ Axioms:
      0*x=0.
      x*0 = 0.
 
-Contained in:
-[1020, 1035, 1050, 1102, 1107, 1114, 1119, 1122, 1129, 1145, 1148, 1189, 124, 136, 162, 171, 193, 198, 209, 236, 269, 283, 287, 321, 322, 337, 356, 431, 489, 515, 518, 519, 552, 604, 609, 681, 702, 721, 725, 726, 771, 822, 848]
-
-Contains:
-[1027, 1033, 1043, 1053, 1054, 1056, 1172, 1174, 185, 23, 337, 596]
-
 ================================================================================
 2025-01-23 19:20:35.446869
 Starting generating models of type Semiring and order size from 2 to 6
@@ -29,7 +22,6 @@ Domain Size 3
 Domain Size 4
 Domain Size 5
 Domain Size 6
-temp
 
 Total number of files: 5 
 
@@ -39,20 +31,14 @@ Removing isomorphic models, and writing non-iso models by model orders
 
 Order: 2
 Number of models: 4
---------------------
 Order: 3
 Number of models: 20
---------------------
 Order: 4
 Number of models: 155
---------------------
 Order: 5
 Number of models: 1691
---------------------
 Order: 6
 Number of models: 39694
---------------------
 ================================================================================
 2025-01-23 19:27:18.308277
-Compressing all models found
 

@@ -1,4 +1,4 @@
-Using the most recent version.
+
 
 Class: Moufang Loop                                              (id: 1122)
 
@@ -13,7 +13,6 @@ Axioms:
 
 arXiv refs: ['0907.1548', '1209.6518']
 
---------------------------------------------------------------------------------
 ================================================================================
 2025-01-22 15:52:41.581532
 Starting generating models of type MoufangLoop and order size from 2 to 15
@@ -32,7 +31,6 @@ Domain Size 12
 Domain Size 13
 Domain Size 14
 Domain Size 15
-temp
 
 Total number of files: 14 
 
