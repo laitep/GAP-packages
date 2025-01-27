@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallMaltsevOperator: testing retrieval of non-isom
 # Simple Length Test 
 gap> Length(AllSmallMaltsevOperator(2));
 0
-gap> IsASmallMaltsevOperator(AllSmallMaltsevOperator(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

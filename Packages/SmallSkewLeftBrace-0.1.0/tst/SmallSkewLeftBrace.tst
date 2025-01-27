@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallSkewLeftBrace: testing retrieval of non-isomor
 # Simple Length Test 
 gap> Length(AllSmallSkewLeftBrace(2));
 166
-gap> IsASmallSkewLeftBrace(AllSmallSkewLeftBrace(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

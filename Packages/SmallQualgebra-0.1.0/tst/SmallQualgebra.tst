@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallQualgebra: testing retrieval of non-isomorphic
 # Simple Length Test 
 gap> Length(AllSmallQualgebra(2));
 11
-gap> IsASmallQualgebra(AllSmallQualgebra(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

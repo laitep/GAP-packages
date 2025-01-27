@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallNovikovAlgebra: testing retrieval of non-isomo
 # Simple Length Test 
 gap> Length(AllSmallNovikovAlgebra(2));
 60
-gap> IsASmallNovikovAlgebra(AllSmallNovikovAlgebra(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

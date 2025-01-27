@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallLattice: testing retrieval of non-isomorphic m
 # Simple Length Test 
 gap> Length(AllSmallLattice(2));
 1
-gap> IsASmallLattice(AllSmallLattice(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

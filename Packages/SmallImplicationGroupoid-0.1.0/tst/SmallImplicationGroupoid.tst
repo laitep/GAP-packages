@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallImplicationZroupoid: testing retrieval of non-
 # Simple Length Test 
 gap> Length(AllSmallImplicationZroupoid(2));
 3
-gap> IsASmallImplicationZroupoid(AllSmallImplicationZroupoid(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

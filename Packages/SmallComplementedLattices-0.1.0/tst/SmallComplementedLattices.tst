@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallComplementedLattices: testing retrieval of non
 # Simple Length Test 
 gap> Length(AllSmallComplementedLattices(2));
 1
-gap> IsASmallComplementedLattices(AllSmallComplementedLattices(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-

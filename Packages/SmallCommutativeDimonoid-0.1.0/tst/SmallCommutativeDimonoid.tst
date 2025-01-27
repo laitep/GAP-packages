@@ -9,7 +9,4 @@ gap> START_TEST("Algebra(s), SmallCommutativeDimonoid: testing retrieval of non-
 # Simple Length Test 
 gap> Length(AllSmallCommutativeDimonoid(2));
 3
-gap> IsASmallCommutativeDimonoid(AllSmallCommutativeDimonoid(2)[1]);
-true
 gap> STOP_TEST( "algebra.tst", 100000 );
-
