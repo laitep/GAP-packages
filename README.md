@@ -7,18 +7,33 @@ Each package has a function which lists, for each sufficiently small natural num
 a complete and minimal set of representatives of isomorphy classes of the models of order N
 (of the given class of algebras).
  
-To install the package move the package you are interested in into the subfolder 
+To install any of the 26 GAP packages, e.g. the package "SmallShelf-0.1.0", 
+first clone the repository in the usual way, by running
+
+       git clone https://github.com/laitep/GAP-packages
+
+
+Then move the folder of the GAP package your are interested in, i.e. in the example above the folder 
+
+       SmallShelf-0.1 
+       
+inside 
+        
+       GAP-packages/Packages
+
+into the subfolder 
          
        pkg
 
-Then run 
+of the GAP home directory on your computer. 
 
+Finally perform the following steps
+
+        cd pkg/SmallShelf-0.1.0
         ./configure
         make  
 
-of your GAP home folder.
-
-In order to load a package, e.g. the package "SmallShelf-0.1.0, start GAP and then type
+In order to load the package "SmallShelf-0.1.0 start GAP and then type
 
 	LoadPackage("SmallShelf"); 
  
