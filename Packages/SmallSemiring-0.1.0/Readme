@@ -13,22 +13,6 @@ Axioms:
      0*x=0.
      x*0 = 0.
 
-================================================================================
-2025-01-23 19:20:35.446869
-Starting generating models of type Semiring and order size from 2 to 6
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-
-Total number of files: 5 
-
-================================================================================
-2025-01-23 19:21:03.315902
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 4
 Order: 3
@@ -39,6 +23,6 @@ Order: 5
 Number of models: 1691
 Order: 6
 Number of models: 39694
-================================================================================
-2025-01-23 19:27:18.308277
 
+Computation-Start: 2025-01-23 19:21:03.315902
+Computation-End:   2025-01-23 19:27:18.308277

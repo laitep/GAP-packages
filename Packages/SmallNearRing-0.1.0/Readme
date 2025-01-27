@@ -9,24 +9,6 @@ Axioms:
 
 arXiv refs: []
 
-================================================================================
-2025-01-21 20:23:50.623848
-Starting generating models of type NearRing and order size from 2 to 8
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-Domain Size 8
-
-Total number of files: 7 
-
-================================================================================
-2025-01-21 20:24:30.253335
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 3
 Order: 3
@@ -41,10 +23,6 @@ Order: 7
 Number of models: 24
 Order: 8
 Number of models: 3856
-================================================================================
-2025-01-21 20:26:06.348509
 
-
-
-
-
+Computation-Start: 2025-01-21 20:24:30.253335
+Computation-End:   2025-01-21 20:26:06.348509

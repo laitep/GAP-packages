@@ -5,27 +5,10 @@ Axioms:
      (x*(y*z)) + ((x*y)*z) = (y*(x*z)) + ((y*x)*z).
      (x*y)*z = (x*z)*y.
 
-================================================================================
-2025-01-20 12:30:05.620616
-Starting generating models of type NovikovAlgebra and order size from 2 to 3
-
-Domain Size 2
-Domain Size 3
-
-Total number of files: 2 
-
-================================================================================
-2025-01-20 12:30:22.192841
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 60
 Order: 3
 Number of models: 174600
-================================================================================
-2025-01-20 13:16:06.787731
 
-
-
-
-
+Computation-Start: 2025-01-20 12:30:22.192841
+Computation-End:   2025-01-20 13:16:06.787731

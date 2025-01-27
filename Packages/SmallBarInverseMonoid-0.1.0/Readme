@@ -13,23 +13,6 @@ Axioms:
      f(0)=1.
      u*f(v) = f(u*v)*u.
 
-================================================================================
-2025-01-21 10:10:19.733595
-Starting generating models of type BarInverseMonoid and order size from 2 to 7
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-
-Total number of files: 6 
-
-================================================================================
-2025-01-21 10:15:06.021597
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 1
 Order: 3
@@ -42,10 +25,6 @@ Order: 6
 Number of models: 5430
 Order: 7
 Number of models: 71416
-================================================================================
-2025-01-21 15:41:24.193432
 
-
-
-
-
+Computation-Start: 2025-01-21 10:15:06.021597
+Computation-End:   2025-01-21 15:41:24.193432

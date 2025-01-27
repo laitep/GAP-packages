@@ -10,23 +10,6 @@ Axioms:
 
 arXiv refs: ['1710.03083']
 
-================================================================================
-2025-01-21 20:12:40.325123
-Starting generating models of type Loop and order size from 2 to 7
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-
-Total number of files: 6 
-
-================================================================================
-2025-01-21 20:12:58.955002
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 1
 Order: 3
@@ -39,10 +22,6 @@ Order: 6
 Number of models: 109
 Order: 7
 Number of models: 23746
-================================================================================
-2025-01-21 20:20:29.614836
 
-
-
-
-
+Computation-Start: 2025-01-21 20:12:58.955002
+Computation-End:   2025-01-21 20:20:29.614836

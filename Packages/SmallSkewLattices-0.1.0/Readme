@@ -10,23 +10,6 @@ Axioms:
      (x + y) * y = y & y = (x * y) + y.
 
 
-================================================================================
-2025-01-25 09:16:33.384974
-Starting generating models of type SkewLattices and order size from 2 to 7
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-
-Total number of files: 6 
-
-================================================================================
-2025-01-25 09:17:21.643913
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 3
 Order: 3
@@ -39,6 +22,6 @@ Order: 6
 Number of models: 173
 Order: 7
 Number of models: 531
-================================================================================
-2025-01-25 12:25:53.519443
 
+Computation-Start: 2025-01-25 09:17:21.643913
+Computation-End:   2025-01-25 12:25:53.519443

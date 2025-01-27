@@ -10,26 +10,12 @@ Axioms:
      a(x,y+z)=a(x,y)+a(x,z).
      a(a(x,y),z) = a(a(x,z),y) + a(x,a(y,z)).
 
-================================================================================
-2025-01-23 19:23:36.820653
-Starting generating models of type LeibnizAlgebra and order size from 2 to 4
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-
-Total number of files: 3 
-
-================================================================================
-2025-01-23 19:23:45.111204
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 16
 Order: 3
 Number of models: 622
 Order: 4
 Number of models: 60717
-================================================================================
-2025-01-23 19:28:08.026681
 
+Computation-Start: 2025-01-23 19:23:45.111204
+Computation-End:   2025-01-23 19:28:08.026681

@@ -4,27 +4,10 @@ Class: Left Brace                                                (id: 1106)
 Axioms:
      (x*(y+z)) + x = (x*y)+(x*z).
 
-================================================================================
-2025-01-20 11:46:14.791465
-Starting generating models of type LeftBrace and order size from 2 to 3
-
-Domain Size 2
-Domain Size 3
-
-Total number of files: 2 
-
-================================================================================
-2025-01-20 11:46:20.332037
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 46
 Order: 3
 Number of models: 113652
-================================================================================
-2025-01-20 12:24:38.495726
 
-
-
-
-
+Computation-Start: 2025-01-20 11:46:20.332037
+Computation-End:   2025-01-20 12:24:38.495726

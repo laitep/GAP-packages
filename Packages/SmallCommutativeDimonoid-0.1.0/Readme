@@ -8,22 +8,6 @@ Axioms:
      x + y = y + x.
      x * y = y * x.
 
-================================================================================
-2025-01-21 10:07:43.833400
-Starting generating models of type CommutativeDimonoid and order size from 2 to 6
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-
-Total number of files: 5  
-
-================================================================================
-2025-01-21 10:14:29.714950
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 3
 Order: 3
@@ -34,10 +18,6 @@ Order: 5
 Number of models: 1495
 Order: 6
 Number of models: 102268
-================================================================================
-2025-01-22 14:21:31.846091
 
-
-
-
-
+Computation-Start: 2025-01-21 10:14:29.714950
+Computation-End:   2025-01-22 14:21:31.846091

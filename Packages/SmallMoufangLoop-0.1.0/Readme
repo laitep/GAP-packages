@@ -13,31 +13,6 @@ Axioms:
 
 arXiv refs: ['0907.1548', '1209.6518']
 
-================================================================================
-2025-01-22 15:52:41.581532
-Starting generating models of type MoufangLoop and order size from 2 to 15
-
-Domain Size 2
-Domain Size 3
-Domain Size 4
-Domain Size 5
-Domain Size 6
-Domain Size 7
-Domain Size 8
-Domain Size 9
-Domain Size 10
-Domain Size 11
-Domain Size 12
-Domain Size 13
-Domain Size 14
-Domain Size 15
-
-Total number of files: 14 
-
-================================================================================
-2025-01-22 15:52:43.864922
-Removing isomorphic models, and writing non-iso models by model orders
-
 Order: 2
 Number of models: 1
 Order: 3
@@ -66,6 +41,6 @@ Order: 14
 Number of models: 2
 Order: 15
 Number of models: 1
-================================================================================
-2025-01-23 09:19:26.539604
 
+Computation-Start: 2025-01-22 15:52:43.864922
+Computation-End:   2025-01-23 09:19:26.539604
