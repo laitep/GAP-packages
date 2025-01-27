@@ -31,12 +31,12 @@ Status := "dev",
 CommunicatedBy := "Joao Araújo",
 AcceptDate := "N/A",
 
-PackageWWWHome  := "https://gap-packages.github.io/SmallSemi/",
+PackageWWWHome  := "https://github.com/laitep/GAP-packages",
 README_URL      := Concatenation( ~.PackageWWWHome, "README" ),
-PackageInfoURL  := Concatenation( ~.PackageWWWHome, "PackageInfo.g" ),
+PackageInfoURL  := Concatenation( ~.PackageWWWHome,"SmallLieTripleSystem-0.1.0/PackageInfo.g" ),
 SourceRepository := rec(
     Type := "git",
-    URL := "https://github.com/gap-packages/SmallSemi/",
+    URL := "https://github.com/laitep/GAP-packages",
 ),
 IssueTrackerURL := Concatenation( ~.SourceRepository.URL, "issues" ),
 ArchiveURL      := Concatenation( ~.SourceRepository.URL,
@@ -62,7 +62,7 @@ PackageDoc := rec(
 
 Dependencies := rec(
   GAP := ">=4.10",
-  # NeededOtherPackages := [["magmaut", ">=0.0.1"]],
+  
   NeededOtherPackages := [],   
   SuggestedOtherPackages := [],
   ExternalConditions := []
