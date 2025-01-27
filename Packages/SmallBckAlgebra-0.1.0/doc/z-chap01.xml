@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of BckAlgebra</Heading>
-		formulas(BckAlgebra).<P/>((x*y)*(z*y))*(x*z) = 0.<P/>x*x=0.<P/>x*0=x.<P/>((x*y=0) & (y*x=0)) -> x=y.<P/>0*x=0.<P/>(x*(x*y))*y=0.<P/>end_of_list.
+		formulas(BckAlgebra).<P/>((x*y)*(z*y))*(x*z) = 0.<P/>x*x=0.<P/>x*0=x.<P/>((x*y=0) &amp; (y*x=0)) -> x=y.<P/>0*x=0.<P/>(x*(x*y))*y=0.<P/>end_of_list.
 	
   </Section>  
   

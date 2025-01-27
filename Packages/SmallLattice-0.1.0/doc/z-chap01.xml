@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of Lattice</Heading>
-		formulas(Lattice).<P/>x+y = y+x & x*y=y*x.<P/>(x+y)+z = x+(y+z) & (x*y)*z = x*(y*z).<P/>x*(x+y)=x & x+(x*y)=x.<P/>end_of_list.
+		formulas(Lattice).<P/>x+y = y+x &amp; x*y=y*x.<P/>(x+y)+z = x+(y+z) &amp; (x*y)*z = x*(y*z).<P/>x*(x+y)=x &amp; x+(x*y)=x.<P/>end_of_list.
 	
   </Section>  
   

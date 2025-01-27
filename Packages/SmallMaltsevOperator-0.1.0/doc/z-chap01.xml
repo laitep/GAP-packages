@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of MaltsevOperator</Heading>
-		formulas(MaltsevOperator).<P/>a(x,x,y) = y & y = a(y,x,x).<P/>end_of_list.
+		formulas(MaltsevOperator).<P/>a(x,x,y) = y &amp; y = a(y,x,x).<P/>end_of_list.
 	
   </Section>  
   

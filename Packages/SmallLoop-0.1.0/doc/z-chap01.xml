@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of Loop</Heading>
-		formulas(Loop).<P/>x+(x*y)=y.<P/>x*(x+y)=y.<P/>0*x = x & x=x*0.<P/>(y*x)^x = y.<P/>(y^x)*x=y.<P/>end_of_list.
+		formulas(Loop).<P/>x+(x*y)=y.<P/>x*(x+y)=y.<P/>0*x = x &amp; x=x*0.<P/>(y*x)^x = y.<P/>(y^x)*x=y.<P/>end_of_list.
 	
   </Section>  
   

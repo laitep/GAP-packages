@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of ComplementedLattices</Heading>
-		formulas(ComplementedLattices).<P/>(x + y) + z = x + (y + z).<P/>(x * y) * z = x * (y * z).<P/>x + y = y + x.<P/>x * y = y * x.<P/>(x + y) * x = x.<P/>(x * y) + x = x.<P/>0 + x = x.<P/>1 + x = 1.<P/>all x exists y (x + y = 1 & x * y = 0).<P/>end_of_list.
+		formulas(ComplementedLattices).<P/>(x + y) + z = x + (y + z).<P/>(x * y) * z = x * (y * z).<P/>x + y = y + x.<P/>x * y = y * x.<P/>(x + y) * x = x.<P/>(x * y) + x = x.<P/>0 + x = x.<P/>1 + x = 1.<P/>all x exists y (x + y = 1 &amp; x * y = 0).<P/>end_of_list.
 	
   </Section>  
   

@@ -13,7 +13,7 @@
 	
   <Section Label = "AlgebraDefinition">
   	<Heading>Definition of SkewLattices</Heading>
-		formulas(SkewLattices).<P/>(x + y) + z = x + (y + z).<P/>x + x = x.<P/>(x * y) * z = x * (y * z).<P/>x * x = x.<P/>x * (x + y) = x & x = x + (x * y).<P/>(x + y) * y = y & y = (x * y) + y.<P/>end_of_list.
+		formulas(SkewLattices).<P/>(x + y) + z = x + (y + z).<P/>x + x = x.<P/>(x * y) * z = x * (y * z).<P/>x * x = x.<P/>x * (x + y) = x &amp; x = x + (x * y).<P/>(x + y) * y = y &amp; y = (x * y) + y.<P/>end_of_list.
 	
   </Section>  
   
